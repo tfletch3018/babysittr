@@ -95,11 +95,9 @@ Finished Project:
 Our QR Code:
  <img src="assets/images/qr-code.png"
 
-Visit this repository at:
-https://github.com/polysnacktyl/project-1
+[Visit this repository at](https://github.com/tfletch3018/babysittr)
 
-Our page is live on Github!
-https://polysnacktyl.github.io/project-1/
+[Our page is live on Github!](https://tfletch3018.github.io/babysittr/)
 
 
   <img src="assets/images/babysittr demo.png">
